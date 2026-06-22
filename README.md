@@ -285,19 +285,4 @@ EWFO Fatigue Priority Score per muscle, FEI distribution per muscle, and DLRT en
 - **Real-time pipeline** — port rep segmentation and MK rolling test to a streaming implementation for live biofeedback
 - **Inter-session reliability** — test EWFO rank stability across sessions separated by days/weeks
 
----
 
-## Citation
-
-If you use this pipeline or metrics in your work, please cite:
-
-```
-[Your Name], "EMG-Based Muscle Fatigue Analysis with Novel Metrics (EWFO, FEI, DLRT)",
-GitHub Repository, 2025. https://github.com/[your-username]/emg-fatigue-pipeline
-```
-
----
-
-## License
-
-MIT License — see `LICENSE` for details.
