@@ -1,0 +1,7 @@
+# ─── Python ───────────────────────────────────────────────────────────────────
+Raunak_fatigue_1
+Fatigue.csv
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
